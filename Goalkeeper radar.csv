@@ -1,0 +1,209 @@
+﻿Player;Pos;Squad;Min;Save %;Expected Post-Shot xG;Expected Post-Shot xG/Shots on Target;Crosses Stopped %;Passes Launched %
+Adrián;GK;Liverpool;270;52.6;2.63;0.42;6.9;31.2
+Rúnar Alex Rúnarsson;GK;Arsenal;16;100;0.5;0.04;0;30
+Alisson;GK;Liverpool;2970;74.8;1.15;0.31;10.1;22.6
+Saturnin Allagbé;GK;Dijon;1080;54.7;1.68;0.29;3.8;48.2
+Nícolas Andrade;GK;Udinese;180;28.6;2;0.58;0;25.8
+Ángel;GK;Granada;90;85.7;2.7;0.22;0;76.9
+Alphonse Areola;GK;Fulham;3240;73.1;1.52;0.32;9.8;38.2
+Kepa Arrizabalaga;GK;Chelsea;585;68.2;1.14;0.31;12.5;29.8
+Sergio Asenjo;GK;Villarreal;3240;70.2;0.97;0.25;9.8;31.3
+Emil Audero;GK;Sampdoria;3330;71.5;1.39;0.27;7.9;44.6
+Édgar Badía;GK;Elche;2700;69.6;1.52;0.3;7.6;39.5
+Stefan Bajic;GK;Saint-Étienne;90;0;1.8;0.44;16.7;37.9
+Oliver Baumann;GK;Hoffenheim;2790;64.3;1.55;0.33;4;32.9
+Walter Benítez;GK;Nice;3420;72.5;1.27;0.25;7;25.6
+Alessandro Berardi;GK;Hellas Verona;28;100;0;0.05;20;85.7
+Paul Bernardoni;GK;Angers;3420;61.9;1.31;0.33;7.5;43.9
+Dimitry Bertaud;GK;Montpellier;745;75;1.45;0.29;13.4;56.7
+Rubén Blanco;GK;Celta Vigo;1637;56.7;1.25;0.37;6;40.2
+Elias Bördner;GK;Eint Frankfurt;90;83.3;0.8;0.13;0;50
+Yassine Bounou;GK;Sevilla;2970;76;0.78;0.22;11.3;34
+Claudio Bravo;GK;Betis;1800;69.6;1.35;0.34;5.4;52.4
+Fabian Bredlow;GK;Stuttgart;90;88.9;2.4;0.27;5.9;37
+Gianluigi Buffon;GK;Juventus;720;82.4;0.63;0.16;2.5;24.4
+Roman Bürki;GK;Dortmund;1665;70.8;1.37;0.26;7.4;30.8
+Jack Butland;GK;Crystal Palace;90;60;0.8;0.17;10;76.9
+David Button;GK;West Brom;90;71.4;1.7;0.24;10;68
+Marcin Bułka;GK;Paris S-G;90;66.7;1.3;0.45;0;17.9
+Willy Caballero;GK;Chelsea;90;0;1.5;0.49;0;15
+Marc-Aurèle Caillard;GK;Metz;361;65;2.3;0.33;13.8;35.2
+Cárdenas;GK;Levante;720;73.2;1.43;0.28;5.7;38.2
+Scott Carson;GK;Manchester City;90;33.3;2.4;0.21;0;0
+Kiko Casilla;GK;Leeds United;270;83.3;1.43;0.36;16.7;20.6
+Koen Casteels;GK;Wolfsburg;2880;70.3;1.04;0.31;8.2;38.3
+Sébastien Cibois;GK;Brest;270;70;1.67;0.45;10.7;41.2
+Alberto Cifuentes;GK;Cádiz;180;50;0.9;0.29;5.9;92.5
+Jasper Cillessen;GK;Valencia;900;77.8;1.21;0.23;6.5;59
+Simone Colombi;GK;Parma;180;33.3;2.45;0.46;7.7;56.4
+Andrea Consigli;GK;Sassuolo;3330;71.1;1.55;0.3;8.9;30.9
+Alex Cordaz;GK;Crotone;3240;57.6;2.12;0.36;5.7;42.1
+Angelo da Costa Júnior;GK;Bologna;540;69.2;1.57;0.36;0;24.5
+Benoît Costil;GK;Bordeaux;3420;66.2;1.23;0.27;5.6;47.3
+Thibaut Courtois;GK;Real Madrid;3420;81.1;0.79;0.22;9.4;24.1
+Alessio Cragno;GK;Cagliari;3060;72.9;1.62;0.29;9.7;46.3
+Gian Crespi;GK;Crotone;90;100;0.4;0.38;0;32.3
+Finn Dahmen;GK;Mainz 05;270;55;3.07;0.42;2.9;33.9
+Karl Darlow;GK;Newcastle Utd;2250;66.7;1.48;0.28;9.2;68.4
+Yehvann Diouf;GK;Reims;135;100;0.67;0.03;0;27.5
+Marko Dmitrović;GK;Eibar;3120;64.1;1.35;0.34;7.9;68.3
+Jaume Doménech;GK;Valencia;2520;69.4;1.4;0.28;6.5;53.4
+Gianluigi Donnarumma;GK;Milan;3330;71.2;1.07;0.3;8.7;33.2
+Bartłomiej Drągowski;GK;Fiorentina;3148;63.3;1.53;0.35;7.2;52
+Matthieu Dreyer;GK;Lorient;1350;62.7;1.37;0.32;6.3;48.6
+Martin Dúbravka;GK;Newcastle Utd;1170;69.5;1.5;0.31;8.1;38.2
+Ederson;GK;Manchester City;3240;75;0.81;0.27;7.8;24.9
+Aarón Escandell;GK;Granada;450;66.7;1.92;0.42;6.7;72.9
+Jokin Ezkieta;GK;Athletic Club;90;33.3;1;0.33;0;11.8
+Łukasz Fabiański;GK;West Ham;3150;69.4;1.28;0.32;7.6;60.9
+Ralf Fährmann;GK;Schalke 04;1876;66.2;1.95;0.27;5.8;42.7
+Wuilker Faríñez;GK;Lens;107;66.7;3.5;0.53;0;44.4
+Aitor Fernández;GK;Levante;2610;65.3;1.34;0.31;7.1;38.3
+Álvaro Fernández;GK;Huesca;1980;67.4;1.36;0.31;5.9;40
+Andrés Fernández;GK;Huesca;1440;64;1.06;0.29;7.8;44.3
+Marco Festa;GK;Crotone;90;87.5;1.6;0.2;8.3;35.7
+Mark Flekken;GK;Freiburg;270;75;2.47;0.39;3.1;42.9
+Fraser Forster;GK;Southampton;720;67.9;1.1;0.25;8;51.4
+Daniel Fuzato;GK;Roma;450;73.1;1.4;0.27;3.6;36.1
+Manuel Gasparini;GK;Udinese;3;;0;;;100
+Paulo Gazzaniga;GK;Elche;720;61.9;0.94;0.32;8.5;60.3
+David de Gea;GK;Manchester Utd;2295;67.1;1.17;0.31;4.6;35.5
+Rafał Gikiewicz;GK;Augsburg;3060;71.5;1.53;0.27;6.5;43.4
+David Gil;GK;Cádiz;360;40;1.57;0.37;6.4;86
+Pierluigi Gollini;GK;Atalanta;2156;63.9;1.03;0.32;5.2;34.5
+Alfred Gomis;GK;Rennes;1980;69.9;1.15;0.32;10.8;29.6
+Alfred Gomis;GK;Dijon;450;70.8;1.98;0.3;10.3;43
+Etienne Green;GK;Saint-Étienne;720;75;1.06;0.27;6.7;52.3
+Lennart Grill;GK;Leverkusen;360;65;1.57;0.32;13;16.9
+Vicente Guaita;GK;Crystal Palace;3330;63.7;1.67;0.36;7.1;58.9
+Péter Gulácsi;GK;RB Leipzig;2970;64.9;0.74;0.29;6.5;24.2
+Samir Handanović;GK;Inter;3240;72.4;0.82;0.24;5.7;23
+Dean Henderson;GK;Manchester Utd;1125;76;0.98;0.26;8.6;35.9
+Sergio Herrera;GK;Osasuna;2958;70.5;1.31;0.32;9.1;77.1
+Marwin Hitz;GK;Dortmund;1395;66.7;1.02;0.33;7.6;28.3
+Timo Horn;GK;Köln;3009;65.1;1.57;0.3;3.3;45.2
+Lukáš Hrádecký;GK;Leverkusen;2565;65.9;0.94;0.31;10;35.9
+Rune Jarstein;GK;Hertha BSC;720;61.3;1.26;0.28;9.3;51
+Sam Johnstone;GK;West Brom;3330;70.6;2.04;0.3;7.2;71.2
+Bingourou Kamara;GK;Strasbourg;720;58.1;1.21;0.28;5.2;48.7
+Loris Karius;GK;Union Berlin;292;80;0.53;0.35;6.7;56
+Eiji Kawashima;GK;Strasbourg;2160;69.2;1.22;0.31;5.9;53.1
+Caoimhín Kelleher;GK;Liverpool;180;85.7;1.1;0.32;10.5;31.3
+Gregor Kobel;GK;Stuttgart;2970;68.4;1.46;0.28;7.1;29.5
+Alban Lafont;GK;Nantes;3420;71.5;1.39;0.27;7.3;53.4
+Michael Langer;GK;Schalke 04;239;50;3.22;0.36;0;44
+Gautier Larsonneur;GK;Brest;3150;66;1.5;0.29;7.6;37
+Jean-Louis Leca;GK;Lens;3313;68;1.28;0.3;6.5;51.8
+Benjamin Lecomte;GK;Monaco;2520;61.3;0.69;0.27;5.6;39.3
+Jeremías Ledesma;GK;Cádiz;2880;68.6;1.21;0.27;9.9;82.4
+Bernd Leno;GK;Arsenal;3131;69.2;1.07;0.31;8.4;22
+Karlo Letica;GK;Sampdoria;90;100;0.9;0.9;0;13.8
+Hugo Lloris;GK;Tottenham;3420;75.7;1.24;0.28;4.9;46.3
+Niklas Lomb;GK;Leverkusen;135;62.5;2.07;0.38;8.3;26.4
+Anthony Lopes;GK;Lyon;3420;70.8;1.13;0.3;5.2;32.7
+Pau López;GK;Roma;1817;67.9;1.32;0.3;7;28.6
+Andreas Luthe;GK;Union Berlin;2768;69.1;1.33;0.31;6.8;40.8
+Mike Maignan;GK;Lille;3420;79.4;0.68;0.23;8;34.9
+Radosław Majecki;GK;Monaco;90;50;0.3;0.16;0;36
+Steve Mandanda;GK;Marseille;3330;66.7;1.16;0.33;7.1;38.1
+Niccolò Manfredini;GK;Benevento;90;80;1.6;0.33;23.1;8.3
+Vito Mannone;GK;Monaco;810;60;1.32;0.34;4.8;41.2
+Federico Marchetti;GK;Genoa;334;42.1;2.16;0.42;0;17.8
+Emiliano Martínez;GK;Aston Villa;3420;76.8;1.38;0.27;8.4;52.7
+Josep Martinez;GK;RB Leipzig;90;50;2;0.49;0;29.5
+Jordi Masip;GK;Valladolid;2250;67.9;1.6;0.32;5.3;64.6
+Alex McCarthy;GK;Southampton;2700;63.8;1.6;0.31;9.2;45.8
+Edouard Mendy;GK;Rennes;90;0;0.6;0.56;16.7;43.5
+Edouard Mendy;GK;Chelsea;2745;70.5;0.79;0.27;6.3;24.5
+Alex Meret;GK;Napoli;1980;65.8;1.04;0.28;10.1;18
+Illan Meslier;GK;Leeds United;3150;75.1;1.58;0.27;10.6;28.4
+Vanja Milinković-Savić;GK;Torino;450;73.7;0.94;0.2;5.9;40.8
+Antonio Mirante;GK;Roma;1153;68.5;1.24;0.25;1.8;35.3
+Lorenzo Montipò;GK;Benevento;3330;58.8;1.74;0.36;9.6;51.9
+Jessy Moulin;GK;Saint-Étienne;2610;62;1.31;0.34;5.9;35.3
+Florian Müller;GK;Freiburg;2790;71.1;1.52;0.3;4.9;36.3
+Juan Musso;GK;Udinese;3147;72.9;1.53;0.31;9.9;40.2
+Paul Nardi;GK;Lorient;2070;63;1.37;0.27;5;48.9
+Keylor Navas;GK;Paris S-G;2520;80.9;0.79;0.23;3.5;26.4
+Neto;GK;Barcelona;630;81;0.96;0.24;6.3;21
+Manuel Neuer;GK;Bayern Munich;2970;67.5;1.34;0.34;2.6;30.9
+Will Norris;GK;Burnley;180;33.3;0.55;0.19;5.6;89.2
+Alexander Nübel;GK;Bayern Munich;90;50;1.9;0.47;0;11.1
+Jan Oblak;GK;Atlético Madrid;3420;80;0.84;0.25;5.8;59.5
+Robin Olsen;GK;Everton;630;70.4;1.36;0.33;7.8;49.3
+Jonas Omlin;GK;Montpellier;2673;72.8;1.72;0.29;9;46.1
+Stefan Ortega;GK;Arminia;3060;71.7;1.53;0.29;8.3;51.1
+David Ospina;GK;Napoli;1440;76.9;0.82;0.27;9.4;29.6
+Alexandre Oukidja;GK;Metz;3058;74.4;1.19;0.27;11.8;52.9
+Fernando Pacheco;GK;Alavés;3349;62;1.48;0.38;9.4;58.2
+Daniele Padelli;GK;Inter;45;100;2;0.14;0;11.1
+Alberto Paleari;GK;Genoa;206;75;1.7;0.34;0;47.5
+Ivor Pandur;GK;Hellas Verona;332;53.8;1.43;0.41;3.8;48.1
+Rui Patrício;GK;Wolves;3329;68.6;1.21;0.28;5.9;53
+Jiří Pavlenka;GK;Werder Bremen;3060;64.7;1.39;0.28;5.8;42.7
+Bailey Peacock-Farrell;GK;Burnley;360;44;2.38;0.38;0;81
+Gianluca Pegolo;GK;Sassuolo;90;100;0;0.04;0;7.7
+Yohann Pelé;GK;Marseille;90;60;2.4;0.47;12.5;0
+Philipp Pentke;GK;Hoffenheim;270;76.9;1.53;0.35;0;25.6
+Juan Pérez;GK;Osasuna;270;71.4;0.87;0.25;0;56.9
+Mattia Perin;GK;Genoa;2879;75.3;1.46;0.28;5;54.8
+Pavao Pervan;GK;Wolfsburg;180;71.4;2.35;0.34;10;39.6
+Jordan Pickford;GK;Everton;2742;71.1;1.28;0.3;8.1;53.3
+Carlo Pinsoglio;GK;Juventus;23;50;3.33;0.52;0;22.2
+Nick Pope;GK;Burnley;2880;77;1.28;0.26;12.9;74.3
+Ivan Provedel;GK;Spezia;2610;60.5;1.69;0.35;9.5;42.7
+Anthony Racioppi;GK;Dijon;1890;67.7;1.67;0.35;6.5;42.5
+Ionuț Radu;GK;Inter;135;83.3;0.93;0.23;0;8.9
+Rafael;GK;Spezia;207;73.7;1.74;0.21;3.2;43.8
+Predrag Rajković;GK;Reims;3285;71.3;1.34;0.29;5.9;45.7
+Aaron Ramsdale;GK;Sheffield Utd;3420;70.7;1.63;0.29;9.5;70
+Darren Randolph;GK;West Ham;270;66.7;1.2;0.4;0;65.9
+Federico Ravaglia;GK;Bologna;360;50;1.95;0.41;4.8;22.6
+Pepe Reina;GK;Lazio;2610;68.9;1.25;0.28;5;34.7
+Álex Remiro;GK;Real Sociedad;3420;65;0.85;0.3;5.8;42.7
+Baptiste Reynet;GK;Nîmes;3420;66.1;1.67;0.29;5.2;46.3
+Sergio Rico;GK;Paris S-G;810;75;1.1;0.28;5.2;13
+Roberto;GK;Valladolid;1170;65.1;1.2;0.33;7.8;67.8
+Joel Robles;GK;Betis;1620;62.5;1.19;0.31;6.9;52.6
+Marek Rodák;GK;Fulham;180;50;2;0.45;12.5;28.2
+Rubén;GKMF;Osasuna;187;44.4;2.33;0.55;5.3;84.8
+John Ruddy;GK;Wolves;91;75;1.1;0.28;0;26.3
+Gerónimo Rulli;GK;Villarreal;180;50;1.35;0.34;0;29.9
+Mathew Ryan;GK;Brighton;990;50;1.35;0.37;6.8;33.4
+Mathew Ryan;GK;Arsenal;270;88.9;1.4;0.36;20;13.8
+Frederik Rønnow;GK;Schalke 04;945;68.8;2.14;0.31;4.2;33.6
+Romain Salin;GK;Rennes;1350;74.1;1.01;0.28;8;35.9
+Robert Sánchez;GK;Brighton;2430;71.3;1.14;0.34;5.2;40.5
+Kasper Schmeichel;GK;Leicester City;3420;65.7;1.28;0.34;8.1;42.4
+Alexander Schwolow;GK;Hertha BSC;2340;68;1.42;0.31;6.2;33.6
+Simone Scuffet;GK;Udinese;90;66.7;1.6;0.23;0;70
+Matz Sels;GK;Strasbourg;540;56;1.67;0.34;11.1;57.6
+Luigi Sepe;GK;Parma;3240;58.2;1.69;0.35;6;44.2
+Rui Silva;GK;Granada;2880;61.2;1.59;0.35;4.2;66.3
+Marco Silvestri;GK;Hellas Verona;3060;71.2;1.1;0.26;3.5;68.6
+Unai Simón;GK;Athletic Club;3330;66.3;0.96;0.29;6;42.4
+Tobias Sippel;GK;M'Gladbach;344;68.4;1.87;0.37;5.4;51.5
+Salvatore Sirigu;GK;Torino;2880;58.1;1.47;0.31;6;45.2
+Antonio Sivera;GK;Alavés;71;100;0;0.01;14.3;66.7
+Łukasz Skorupski;GK;Bologna;2520;71.3;1.6;0.28;10.4;33.7
+Yann Sommer;GK;M'Gladbach;2712;64.5;1.44;0.31;5.8;32
+David Soria;GK;Getafe;2520;66.7;1.05;0.32;9.6;87.9
+Marco Sportiello;GK;Atalanta;1261;58.3;1.15;0.3;8;23.8
+Zack Steffen;GK;Manchester City;90;50;0.6;0.32;0;25
+Thomas Strakosha;GK;Lazio;810;67.6;1.47;0.31;9.1;34.3
+Wojciech Szczęsny;GK;Juventus;2677;70.5;0.95;0.25;7.1;21
+Ciprian Tătărușanu;GK;Milan;90;66.7;2.9;0.35;33.3;13
+Marc-André ter Stegen;GK;Barcelona;2790;71.6;0.94;0.27;10.9;22.2
+Pietro Terracciano;GK;Fiorentina;272;60;1.07;0.22;0;67.3
+Kevin Trapp;GK;Eint Frankfurt;2970;66.4;1.35;0.29;8.4;46.1
+Samir Ujkani;GK;Torino;90;66.7;1;0.33;6.3;31.8
+Tomáš Vaclík;GK;Sevilla;450;64.3;0.7;0.26;5;28.3
+Koke Vegas;GK;Levante;90;50;2.6;0.64;0;44.4
+Guglielmo Vicario;GK;Cagliari;360;71.4;1.25;0.24;5;50
+Iván Villar;GK;Celta Vigo;1781;66.7;1.42;0.32;8.5;50
+João Virgínia;GK;Everton;48;100;0.4;0.07;0;61.5
+Rubén Yáñez;GK;Getafe;900;63.3;1.16;0.35;6.9;70.2
+Yoel;GK;Eibar;300;40;0.67;0.44;9.1;58.8
+Robin Zentner;GK;Mainz 05;2790;69.6;1.31;0.28;9.5;43.3
+Ron-Robert Zieler;GK;Köln;51;100;1.17;0.01;0;35.3
+Jeroen Zoet;GK;Spezia;603;65.4;1.73;0.34;10;41.7
